@@ -4,7 +4,7 @@ interface IProps {
 
 }
 
-const spanClass = 'invisible z-10 absolute start-full top-1/2 ms-4 -translate-y-1/2 rounded bg-gray-900 px-2 py-1.5 text-xs font-medium text-white group-hover:visible'
+const spanClass = 'invisible z-40 absolute start-full top-1/2 ms-4 -translate-y-1/2 rounded bg-gray-900 px-2 py-1.5 text-xs font-medium text-white group-hover:visible'
 const NavLinkClass = 'group relative flex justify-center rounded px-2 py-1.5 text-gray-500 hover:bg-gray-50 hover:text-gray-700'
 
 const Sidebar = ({ }: IProps) => {

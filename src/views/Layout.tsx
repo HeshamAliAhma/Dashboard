@@ -14,7 +14,7 @@ const Layout = ({ }: IProps) => {
             <h1>Header</h1>
             <h1>Header</h1>
         </div>
-        <div className="bg-slate-100 px-4 py-5">
+        <div className="px-4 py-5">
           <Outlet />
         </div>
         </div>
